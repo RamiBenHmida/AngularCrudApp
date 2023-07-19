@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "personen": [
+    {
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "email": "emily.johnson@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Thompson",
+      "email": "daniel.thompson@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Anderson",
+      "email": "sophia.anderson@outlook.com",
+      "id": 3
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Roberts",
+      "email": "liam.roberts@hotmail.fr",
+      "id": 4
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Mitchell",
+      "email": "ava.mitchell@outlook.com",
+      "id": 5
+    }
+  ]
+}
